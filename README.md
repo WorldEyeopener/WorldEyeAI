@@ -1,8 +1,6 @@
 # WorldEyeAI
 WorldEyeAI — AI-powered growth &amp; support systems: Sales Copywriting + Customer Support GPT Chatbots (WorldEyeopener &amp; affiliates)
 
-# WorldEyeAI
-
 **WorldEyeAI** is the public landing site for **WorldEyeopener** and its affiliates — built to sell and support two Fiverr services:
 
 1) **Sales Copywriting (AI + Strategy)** — ads, emails, landing pages  
