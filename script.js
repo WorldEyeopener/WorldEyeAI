@@ -144,7 +144,7 @@ function briefForm(){
     const { gig, package: pkg, offer, goal, timeline, links } = values;
 
     const lines = [
-      "Hi! I’d like to place an order.",
+      "Hey, does this look like the correct message you want to send? If so, then hit complete generate to finish your final generation.",
       "",
       `Gig: ${gigLabel(gig)}`,
       `Package: ${packageLabel(gig, pkg)}`,
